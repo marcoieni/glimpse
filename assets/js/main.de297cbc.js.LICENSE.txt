@@ -57,19 +57,6 @@
  * Copyright (C) 2020 Oliver Nightingale
  */
 
-/*! Bundled license information:
-
-prismjs/prism.js:
-  (**
-   * Prism: Lightweight, robust, elegant syntax highlighting
-   *
-   * @license MIT <https://opensource.org/licenses/MIT>
-   * @author Lea Verou <https://lea.verou.me>
-   * @namespace
-   * @public
-   *)
-*/
-
 /**
  * @license
  * Copyright 2019 Google LLC
