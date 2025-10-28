@@ -17,7 +17,7 @@ jobs:
               uses: actions/setup-node@v6
               with:
                   # node version used by VS Code
-                  node-version: 22
+                  node-version: 24
 
             - name: Restore dependencies
               run: npm ci
