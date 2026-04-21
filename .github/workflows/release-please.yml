@@ -13,7 +13,7 @@ jobs:
     release-please:
         runs-on: ubuntu-latest
         steps:
-            - uses: googleapis/release-please@v4
+            - uses: googleapis/release-please@v17.6.0
               with:
                   release-type: node
                   token: ${{ secrets.GLIMPSE_RELEASE_PLEASE }}
